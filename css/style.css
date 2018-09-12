@@ -1,0 +1,186 @@
+/*
+Author  : Md. Rokebul Hassan
+Style   : 01
+Project : SylhetCoders Home Work
+Date    : 23/01/2017
+Time    : 04:30 PM
+*/
+/* Menu CSS Sart */
+.navbar_my{
+    border-radius: 0px;
+    border: 0px;
+    background-color: #fff;
+}
+.navbar_my_right{
+    
+    margin-top: -80px;
+}
+.log{
+    
+    margin-top: -30px;
+    display: block;
+    max-width: 61%;
+    height: auto;
+
+}
+.b{
+    
+}
+.header_list{
+    margin-bottom: -6px;
+    margin-top: 6px;
+}
+.lask{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.menu-font{
+    font-family: 'Droid Serif', serif;
+    font-size: 14px;
+    color: black;
+}
+.menu-font-sub{
+    font-family: 'Droid Serif', serif;
+    font-size: 9px;
+    color: gray;
+}
+.border_left{
+    border-left: 1px dotted gray;
+}
+/* Menu CSS End */
+/* Slider CSS Start */
+.lucky{
+    margin-top: -20px;
+}
+.bgcolor{
+    background-color: black;
+}
+.saloni{
+    margin-bottom: -25px;
+}
+/* Slider CSS End */
+/* Section CSS Start */
+.last{
+    color: black;
+    font-family: 'Droid Serif', serif;
+    font-size: 25px;
+}
+.font-heading{
+    font-family: 'Droid Serif', serif;
+    font-size: 20px;
+}
+.font-heading-sup{
+    color: black;
+    font-family: 'Droid Serif', serif;
+    font-size: 11px;
+}
+/* Section CSS End */
+/* Contact CSS Start */
+.social-heading{
+    font-family: 'Droid Serif', serif;
+    font-size: 20px;
+    color: black;
+}
+.culi{
+    border-bottom: 1px dotted black;
+    padding-bottom: 5px;
+}
+.font-heading-sug{
+    color: white;
+    font-family: 'Droid Serif', serif;
+    font-size: 11px;
+}
+.moshi{
+    background-color: white;
+    color: white;
+}
+.pushi{
+    margin-bottom: -1px;
+    border-color: black;
+    margin-right: -10px;
+    color: black;
+}
+.coco{
+    background-color: black;
+}
+.colortd{
+    color: black;
+}
+.topmargin{
+    margin-top: 25px;
+}
+.tali-ul{
+    margin-top: 18px;
+}
+.social-icon{
+    color: white;
+    font-size: 22px;
+    border-radius: 6px;
+}
+.rss{
+    background-color: #E85226;
+    padding: 5px 11px;
+}
+.fb{
+    background-color: #375A86;
+    padding: 5px 15px;
+}
+.in{
+    background-color: #38749F;
+    padding: 5px 11px;
+}
+.you{
+    background-color: #A12826;
+    padding: 5px 11px;
+}
+.twe{
+    background-color: #5DA8AF;
+    padding: 5px 11px;
+}
+.mamu{
+    margin-left: -9px;
+}
+.kaku{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.kaka{
+    margin-top: 9px;
+    margin-bottom: 25px;
+}
+.kaki{
+    margin-top: 32px;
+    margin-bottom: 22px;
+}
+.baku{
+    margin-top: 6px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+}
+.culo{
+    border-bottom: 1px dotted black;
+    padding-bottom: 7px;
+}
+.img-size-icon{
+    width: 50%;
+}
+.papu{
+    padding-bottom: 85px;
+    padding-top: 15px;
+}
+.laku{
+    border-top: 10px solid gray;
+}
+.pgcolor{
+    background-color: #333333;
+}
+.finish{
+    color: #f0f0f0;
+}
+.ses{
+    margin-left: -5px;
+}
+.batki{
+    border-radius: 4px;
+}
